@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HealthScaler.jar">
+    <output-path>$PROJECT_DIR$/../../Minecraft/New folder/plugins/</output-path>
+    <root id="archive" name="HealthScaler.jar">
+      <element id="module-output" name="HealthScaler" />
+    </root>
+  </artifact>
+</component>

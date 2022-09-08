@@ -1,0 +1,5 @@
+name: HealthScaler
+author: FailuresNA
+main: me.failures.main.HealthScaler
+api-version: 1.16
+version: 1.0.0
